@@ -1,0 +1,22 @@
+/* body {
+    overflow-x: hidden;
+} */
+
+.jumbotron {
+    background-color: #e2edff;
+    padding-top: 6rem;
+
+}
+
+#skills {
+    background-color: #e2edff;
+
+}
+
+a {
+    text-decoration: none;
+}
+
+section {
+    padding-top: 5rem;
+}
